@@ -1,0 +1,11 @@
+body{
+    background-color: #ddb893;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bts{
+    width: 35rem;
+    height: 10rem;
+    border-radius: 10rem;
+    background-color: #e6ccb2;
+
+}
